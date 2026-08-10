@@ -39,11 +39,17 @@ AI-powered log analysis system built with Spring Boot, PostgreSQL, and the Groq 
 ### Tech Stack
 
 **Languages:** Python · Java · C
+
 **Backend:** FastAPI · SpringBoot
+
 **Databases:** PostgreSQL · Redis
+
 **AI/ML:** Groq API · GPT-4o · MobileNetV2
+
 **Frontend:** React · Next.js · Tailwind CSS
+
 **Tools:** Docker · Git · GitHub Actions
+
 
 ---
 
