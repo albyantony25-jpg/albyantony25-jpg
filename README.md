@@ -1,9 +1,6 @@
 <h1 align="center">Hi, I'm Alby 👋</h1>
 <h3 align="center">AI/ML Engineer in the making | Backend Developer | Final-Year CSE Student</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Alby&color=blue&style=flat" alt="profile views"/>
-</p>
 
 ---
 
