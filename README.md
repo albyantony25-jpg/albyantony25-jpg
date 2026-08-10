@@ -16,7 +16,7 @@ Final-year B.Tech Computer Science Engineering student, focused on AI/ML Enginee
 
 ## Tech Stack
 
-Java · Python · Spring Boot · FastAPI · PostgreSQL · React · Docker
+Python · FastAPI · Java · Spring Boot ·  PostgreSQL · React · Docker
 
 ## Connect
 
