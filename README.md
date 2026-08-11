@@ -2,7 +2,10 @@
 <h3 align="center">AI/ML Engineer in the making | Backend Developer | Final-Year CSE Student</h3>
 
 
+
 ---
+
+
 
 ### About Me
 
@@ -21,7 +24,11 @@ intelligence.
   
 - 💼 Open to: AI/ML Engineer, Backend Developer, Software Engineer roles
 
+
+
 ---
+
+
 
 ### Projects
 
@@ -45,6 +52,8 @@ AI-powered log analysis system built with Spring Boot, PostgreSQL, and the Groq 
 
 ---
 
+
+
 ### Tech Stack
 
 **Languages:** Python · Java · C
@@ -66,6 +75,9 @@ AI-powered log analysis system built with Spring Boot, PostgreSQL, and the Groq 
 
 Open to AI/ML Engineer, Backend Developer, and Software Engineer opportunities.
 
+
+
+---
 
 
 
