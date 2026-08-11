@@ -63,10 +63,15 @@ AI-powered log analysis system built with Spring Boot, PostgreSQL, and the Groq 
 ---
 
 
+
 Open to AI/ML Engineer, Backend Developer, and Software Engineer opportunities.
+
+
 
 
 ### Connect with me
 
+
 LinkedIn : www.linkedin.com/in/albyantony25
+
 Email : albyantony25@gmail.com
