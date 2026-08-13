@@ -20,9 +20,7 @@ intelligence.
   
 - 🌱 Learning: Data Structures & Algorithms, Machine Learning fundamentals
   
-- 🎯 Preparing a KTU seminar on **Model Context Protocol (MCP)**
-  
-- 💼 Open to: AI/ML Engineer, Backend Developer, Software Engineer roles
+- 💼 Open to: AI/ML Engineer, Backend Developer, Software Engineer Internships
 
 
 
