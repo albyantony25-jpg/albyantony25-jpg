@@ -9,14 +9,14 @@
 
 ### About Me
 
-I'm a final-year B.Tech Computer Science Engineering student (KTU), building AI-integrated backend systems and preparing for AI/ML Engineer and Backend Developer roles at product-first companies.
+I'm a final-year B.Tech Computer Science Engineering student (KTU), building AI-integrated backend systems and preparing for AI Engineer and Backend Developer roles at product-first companies.
 
 
-My journey started with core programming fundamentals and Java backend development, and has since evolved toward AI/ML engineering — building systems that combine traditional backend architecture with LLM-powered 
+My journey started with core programming fundamentals and Java backend development, and has since been evolved towards AI engineering — building systems that combine traditional backend architecture with LLM-powered 
 intelligence.
 
 
-- 🔭 Currently building: TestLoop : An autonomous Python test-generation agent that writes, executes, evaluates, and improves tests through a bounded feedback loop.
+- 🔭 Currently building: TestLoop - An autonomous Python test-generation agent that writes, executes, evaluates, and improves tests through a bounded feedback loop.
   
 - 🌱 Learning: Data Structures & Algorithms, Machine Learning fundamentals
   
