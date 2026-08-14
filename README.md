@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Alby A Jose</h1>
-<h3 align="center">AI/ML Engineer in the making | Building production-style intelligent systems</h3>
+<h1 align="center">Alby A Jose</h1>
+<h3 align="center">AI Engineer in the making | Building production-style intelligent systems</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=albyantony25-jpg&label=Profile%20Views&color=0e75b6&style=flat" alt="albyantony25-jpg" />
