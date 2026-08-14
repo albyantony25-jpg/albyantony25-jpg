@@ -1,4 +1,4 @@
-<h1 align="center">Alby A Jose</h1>
+<h1 align="center">ALBY A JOSE</h1>
 <h3 align="center">AI Engineer in the making | Building production-style intelligent systems</h3>
 
 
