@@ -9,7 +9,7 @@
 
 ---
 
-### 🚀 About Me
+###  ABOUT ME
 
 - 🎓 Final-year **B.Tech Computer Science Engineering** student (KTU), Lourdes Matha College of Science and Technology, Thiruvananthapuram
 - 🤖 Currently focused on **AI/ML Engineering** — building systems that combine solid backend architecture with LLM integration
