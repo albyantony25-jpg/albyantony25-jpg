@@ -55,12 +55,12 @@ ML-powered skin condition detection and analysis tool, built as a team project.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=albyantony25-jpg&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="stats" height="165"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=albyantony25-jpg&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" height="165"/>
   <img src="https://streak-stats.demolab.com/?user=albyantony25-jpg&theme=tokyonight&hide_border=true" alt="streak" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=albyantony25-jpg&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="top langs"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=albyantony25-jpg&layout=compact&theme=tokyonight&hide_border=true" alt="top langs"/>
 </p>
 
 ---
