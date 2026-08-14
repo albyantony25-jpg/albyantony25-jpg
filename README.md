@@ -1,88 +1,80 @@
-<h1 align="center"> ALBY A JOSE </h1>
-<h3 align="center">AI/ML Engineer in the making | Backend Developer | Final-Year CSE Student</h3>
+<h1 align="center">Hi 👋, I'm Alby A Jose</h1>
+<h3 align="center">AI/ML Engineer in the making | Building production-style intelligent systems</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=albyantony25-jpg&label=Profile%20Views&color=0e75b6&style=flat" alt="albyantony25-jpg" />
+</p>
 
-
----
-
-
-
-### About Me
-
-I'm a final-year B.Tech Computer Science Engineering student (KTU), building AI-integrated backend systems and preparing for AI Engineer and Backend Developer roles at product-first companies.
-
-
-My journey started with core programming fundamentals and Java backend development, and has since been evolved towards AI engineering — building systems that combine traditional backend architecture with LLM-powered 
-intelligence.
-
-
-- 🔭 Currently building: TestLoop - An autonomous Python test-generation agent that writes, executes, evaluates, and improves tests through a bounded feedback loop.
-  
-- 🌱 Learning: Data Structures & Algorithms, Machine Learning fundamentals
-  
-- 💼 Open to: AI/ML Engineer, Backend Developer, Software Engineer Internships
-
-
-
+<p align="center">
+  <a href="https://linkedin.com/in/albyantony25"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
 ---
 
+### 🚀 About Me
 
-
-### Projects
-
-
-**[VoltIQ](#)**
-
-AI-powered home energy intelligence platform for tracking and optimizing household energy usage. Built end-to-end with a FastAPI backend and Next.js frontend, integrating GPT-4o and Groq API for intelligent insights. Led a team of four as primary developer.
-`FastAPI` `PostgreSQL` `GPT-4o` `Next.js`
-
-**[SkinSense AI](#)**
-
-Skin disease classification system using a MobileNetV2 model (92%+ accuracy), served via FastAPI and consumed by a React/Tailwind frontend. Served as Backend Lead; deployed on Render and Vercel.
-`FastAPI` `MobileNetV2` `React` `Tailwind CSS`
-
-**[Log Intelligence Platform](#)**
-
-AI-powered log analysis system built with Spring Boot, PostgreSQL, and the Groq API (Llama 3.3 70B). Ingests logs, clusters events, and generates automated root-cause summaries. Includes Redis caching, JWT authentication, rate limiting, async ingestion, CI/CD via GitHub Actions, and a React dashboard with live WebSocket log simulation.
-`Spring Boot` `PostgreSQL` `Redis` `Groq API` `React` `Docker`
-
-
+- 🎓 Final-year **B.Tech Computer Science Engineering** student (KTU), Lourdes Matha College of Science and Technology, Thiruvananthapuram
+- 🤖 Currently focused on **AI/ML Engineering** — building systems that combine solid backend architecture with LLM integration
+- 🎯 Targeting roles at **Sarvam AI, Fractal Analytics, Groww, Zoho, Freshworks, Razorpay, CRED, PhonePe**
+- 📄 KTU S7 Seminar: **Model Context Protocol (MCP)**
+- 🌱 Actively building and shipping AI-integrated backend systems end-to-end
 
 ---
 
+### 🛠️ Tech Stack
 
+**Languages:** ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-### Tech Stack
+**Backend:** ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
-**Languages:** Python · Java · C
+**Frontend:** ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Tailwind](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-**Backend:** FastAPI · Flask · SpringBoot
+**Data & Infra:** ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-**Databases:** PostgreSQL · Redis
-
-**AI/ML:** Groq API · GPT-4o · MobileNetV2
-
-**Frontend:** React · Next.js · Tailwind CSS
-
-**Tools:** Docker · Git · GitHub Actions
-
+**AI/LLM:** ![Groq](https://img.shields.io/badge/-Groq%20API-F55036?style=flat-square) ![OpenAI](https://img.shields.io/badge/-GPT--4o-412991?style=flat-square&logo=openai&logoColor=white) ![Llama](https://img.shields.io/badge/-Llama%203.3-0467DF?style=flat-square)
 
 ---
 
+### 🔥 Featured Projects
 
+#### 🔁 [TestLoop](#)
+A feedback-loop AI agent that generates pytest tests for Python source code, runs them, evaluates results, and retries on failure — built phase-by-phase under a strict Master Project Specification to prioritize deep learning over vibecoding.
+- **Stack:** FastAPI · Groq API (LLM) · pytest · Python
+- **Highlights:** LLM-generated tests with structured JSON output, subprocess-based test runner, rule-based evaluator, agent loop with max-iteration retry and failure-context feedback, structured observability logging
 
-Open to AI/ML Engineer, Backend Developer, and Software Engineer opportunities.
+#### ⚡ [VoltIQ](#)
+AI-powered home energy intelligence platform delivering usage insights and recommendations.
+- **Stack:** FastAPI · PostgreSQL · GPT-4o · Groq API (Llama 3.3 70B) · Next.js 14
+- **Deployed:** Railway (backend) · Vercel (frontend)
 
-
+#### 🩺 [SkinSense AI](#)
+ML-powered skin condition detection and analysis tool, built as a team project.
+- **Role:** Backend Lead
+- **Stack:** Python · Keras/TensorFlow · REST API
+- **Live:** [Frontend](https://skinsense-ai-eight.vercel.app) · [Backend](https://skinsense-ai-93p9.onrender.com)
 
 ---
 
+### 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=albyantony25-jpg&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=albyantony25-jpg&theme=tokyonight&hide_border=true" alt="streak" height="165"/>
+</p>
 
-### Connect with me
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=albyantony25-jpg&layout=compact&theme=tokyonight&hide_border=true" alt="top langs"/>
+</p>
 
+---
 
-LinkedIn : www.linkedin.com/in/albyantony25
+### 🎯 Currently
 
-Email : albyantony25@gmail.com
+- 🔍 Sharpening DSA + system design for AI/ML engineering interviews
+- 📚 Preparing MCP seminar (Model Context Protocol)
+- 🛠️ Polishing production-grade projects for placements
+
+---
+
+<p align="center"><i>⭐️ From <a href="https://github.com/albyantony25-jpg">albyantony25-jpg</a></i></p>
