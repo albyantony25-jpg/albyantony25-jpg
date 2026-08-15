@@ -59,9 +59,6 @@ ML-powered skin condition detection and analysis tool, built as a team project.
   <img src="https://streak-stats.demolab.com/?user=albyantony25-jpg&theme=tokyonight&hide_border=true" alt="streak" height="165"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=albyantony25-jpg&layout=compact&theme=tokyonight&hide_border=true" alt="top langs"/>
-</p>
 
 ---
 
