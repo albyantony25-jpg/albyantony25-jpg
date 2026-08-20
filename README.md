@@ -52,14 +52,6 @@ ML-powered skin condition detection and analysis tool, built as a team project.
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=albyantony25-jpg&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" height="165"/>
-</p>
-
-
----
 
 ### 🎯 Currently
 
