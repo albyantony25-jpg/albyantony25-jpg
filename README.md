@@ -63,7 +63,7 @@ ML-powered skin condition detection and analysis tool, built as a team project.
 
 ### 🎯 Currently
 
-- 🔍 Sharpening DSA + System design for Engineering interviews.
+- 🔍 Sharpening DSA + System design for interviews.
 - 🛠️ Polishing production-grade projects for placements.
 
 ---
