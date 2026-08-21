@@ -1,5 +1,5 @@
 <h1 align="center">ALBY A JOSE</h1>
-<h3 align="center">AI Engineer in the making | Building production-style intelligent systems | Open source learner</h3>
+<h3 align="center">AI Engineer in the making | Building production-style intelligent systems | Open source Learner</h3>
 
 
 <p align="center">
